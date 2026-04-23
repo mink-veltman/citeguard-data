@@ -1,4 +1,4 @@
-# CitéGuard — Miscitation Reports Database
+# CiteGuard — Miscitation Reports Database
 
 Public database of miscitation reports submitted via [CitéGuard](https://github.com/mink-veltman/citeguard). Each row is a report flagging a specific paper for misciting another work.
 
